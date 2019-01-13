@@ -1,4 +1,4 @@
-package com.kirilo.SpringMVC;
+package com.kirilo.springMVC;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
